@@ -1,3 +1,3 @@
 <p align="center">
-  ![hello_world](/readme.png)
+  <img src="https://github.com/matimercado/matimercado/blob/master/readme.png">
 </p>

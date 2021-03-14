@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/matimercado/matimercado/blob/master/readme.png">
+ ![hello_world](/readme.png)
 </p>
 
 ![hello_world](/readme.png)
